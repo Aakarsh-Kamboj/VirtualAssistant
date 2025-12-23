@@ -10,7 +10,7 @@ import image7 from '../assets/aiAssistant8.jpeg'
 import { BiImageAdd } from "react-icons/bi";
 import { useState } from 'react'
 import { useRef } from 'react'
-import { userDataContext } from '../context/userContext'
+import { userDataContext } from '../context/UserContext'
 import { useNavigate } from 'react-router-dom'
 import { MdKeyboardBackspace } from "react-icons/md";
 
