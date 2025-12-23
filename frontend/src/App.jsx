@@ -4,7 +4,7 @@ import SignUp from './pages/signup'
 import SignIn from './pages/signin'
 import Customize from './pages/Customize'
 import { useContext } from 'react'
-import { userDataContext } from './context/userContext'
+import { userDataContext } from './context/UserContext'
 import Home from './pages/Home'
 import Customize2 from './pages/Customize2'
 
